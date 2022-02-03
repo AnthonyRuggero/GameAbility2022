@@ -2,8 +2,6 @@
 
 Ruggero Anthony, Giordano Samuele, Pellegrino Simone
 
-Hi everybody, this is our logo.
+Hi everybody, our team name is BOVES INDOMITI and this is our logo.
 
 ![This is our logo](https://github.com/AnthonyRuggero/GameAbility2022/blob/main/BOVES.png)
-
-We are 3 classmates
