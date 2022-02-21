@@ -19,3 +19,4 @@ We use Unity programming environment, because it has a 3D part in wich we can pr
 Unity gives the possibility to add some codes to control the objects in the game. ![image](https://user-images.githubusercontent.com/90908033/153711842-17fed2df-29d0-4bf6-a825-6e4793439e77.png)
 Every object in the game have a RigidBody and a Collider, so they have physics as in reality, for a gameplay more similar to reality as possible.
 
+To play this game is requied a nvidia graphic card and CUDA 10 dirver installed, for start the game you have to download the files, and excute the .bat file, it opens Open pose for first, after 5 seconds it opens the game.
